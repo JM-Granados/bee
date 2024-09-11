@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Por supuesto que si, eres la mujer más guapa e inteligente que conozco, me encantas boba...";
+  question.innerHTML = "Por supuesto que si, eres la mujer más guapa e inteligente del universo.";
   gif.src = "https://media.giphy.com/media/zrxazUScjhxo4/giphy.gif?cid=ecf05e47df38p3x03rlxj9jf4csmk204v7y4ukdgas7uhlh9&ep=v1_gifs_search&rid=giphy.gif&ct=g";
 });
 
